@@ -1,8 +1,8 @@
 # DocuBuddy
 DocuBuddy — Your friendly local AI assistant for multi-modal document analysis, hybrid search, SQL spreadsheet querying, interactive mind maps, and strategic roadmaps. 100% private, powered by Ollama & LangGraph.
-🤖 DocuBuddy — Your AI-Powered Knowledge Companion Transform multi-format documents, spreadsheets, and presentations into actionable intelligence, interactive mind maps, and strategic roadmaps — completely on-premise. 
+## 🤖 DocuBuddy — Your AI-Powered Knowledge Companion Transform multi-format documents, spreadsheets, and presentations into actionable intelligence, interactive mind maps, and strategic roadmaps — completely on-premise. 
 License: MIT Python 3.10+ React + Vite Ollama Powered 
-✨ Key Features 
+## ✨ Key Features 
 📑 Multi-Format Ingestion: Support for PDF, Excel, CSV, PowerPoint, Images, and Markdown. 
 🔍 Hybrid RAG Search: Combines Dense Vector Similarity (ChromaDB) with BM25 Keyword Search & Cross-Encoder re-ranking. 
 📊 Natural Language to SQL: Query Excel and CSV files using plain conversational English. 
@@ -35,7 +35,7 @@ Make sure you have the following installed before starting:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/Docu_Buddy.git
+git clone https://github.com/PraChand29/Docu_Buddy.git
 cd Docu_Buddy
 ```
 
